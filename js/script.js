@@ -1,1 +1,1 @@
-//ini javascript
+//ini kode javascript
